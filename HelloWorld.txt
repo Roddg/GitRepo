@@ -1,5 +1,7 @@
-print("hello world")
-print("hello everybody")
-print("hello")
-print("hello my dear friend")
-зкште("Glad to see your")
+print("hello world");
+print("hello everybody");
+print("hello");
+print("hello my dear friend");
+print("Glad to see your");
+
+
